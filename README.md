@@ -16,7 +16,7 @@ json-server server/db.json`
 ```
 OR 
 ```
-json-server server/db.with.xxs.json
+json-server server/db.with.xss.json
 ```
 Then open up the `index.html` file in your browser.
 ### Developing
