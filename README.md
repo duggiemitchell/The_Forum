@@ -23,6 +23,5 @@ Then open up the `index.html` file in your browser.
 1. `npm install -g gulp
 2. `gulp` should transpile and trigger the watch
 
-__The project is currently setup to transpile code under the `_/src_` folder using the ___
-___`_/src/app.js_` file as an entry point.___
+*The project is currently setup to transpile code under the `_/src_` folder using the `_/src/app.js_` file as an entry point.*
 
