@@ -10,7 +10,7 @@ Application for a forum web application.  This project includes client-side Java
 
 ### Running
 
-Run the API with either" 
+Run the API with either:
 ```
 json-server server/db.json`
 ```
@@ -20,7 +20,7 @@ json-server server/db.with.xss.json
 ```
 Then open up the `index.html` file in your browser.
 ### Developing
-1. `npm install -g gulp
+1. `npm install -g gulp`
 2. `gulp` should transpile and trigger the watch
 
 *The project is currently setup to transpile code under the `_/src_` folder using the `_/src/app.js_` file as an entry point.*
