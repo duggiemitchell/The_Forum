@@ -1,16 +1,16 @@
 {
-  "name": "babel-with-gulp",
+  "name": "The_Forum",
   "version": "1.0.0",
   "description": "Starter code for using Babel with Gulp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Carlos Souza <carloshrsouza@gmail.com> (http://csouza.me/)",
+  "author": "Duggie Mitchell <me@ericamitchellonline.com> (http://duggiemitchell.github.io/)",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/codeschool/babel-with-gulp.git"
+    "url": "git+ssh://git@github.com/duggiemitchell/The_Forum"
   },
   "keywords": [
     "babel",
@@ -18,7 +18,7 @@
     "es2015"
   ],
   "bugs": {
-    "url": "https://github.com/codeschool/babel-with-gulp/issues"
+    "url": "https://github.com/duggiemitchell/The_Forum/issues"
   },
   "homepage": "https://github.com/codeschool/babel-with-gulp#readme",
   "devDependencies": {
